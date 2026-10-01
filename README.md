@@ -6,6 +6,7 @@ A six-legged robotic platform designed for stable locomotion across different te
 
 - **Harit Patel**
 - **Nisarg Patel**
+- **Khushi Padia**
 
 ---
 
@@ -317,6 +318,7 @@ The project presentation identifies the following possible improvements:
 ## Authors
 
 **Harit Patel**  
-**Nisarg Patel**
+**Nisarg Patel**  
+**Khushi Padia**
 
 **Project: HEXAPOD — Six-Legged Robot**
